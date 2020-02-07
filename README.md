@@ -1,2 +1,3 @@
-# gatsby-begin
-Trying out data in gatsby
+# Gatsby begin
+
+Trying out some data stuff in gatsby
